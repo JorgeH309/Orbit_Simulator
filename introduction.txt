@@ -1,0 +1,8 @@
+The launch of a space vehicle starts with a period of powered flight in
+which the vehicle is lifted from the ground to above the atmosphere. The end
+of this powered flight period, known as burnout, initiates the vehicle's
+free flight. At this point, the vehicle's trajectory can be determined based on
+its location and its velocity in the x, y, and z direction. In this simulator, our
+vehicle has just reached free flight and is at <6000, -5500, -3300>.
+
+Input vehicle's velocity in meters per second.
